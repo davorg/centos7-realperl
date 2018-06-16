@@ -1,4 +1,4 @@
-# dancer2 on Centos 7
+# Full Perl installation on Centos 7
 # 
 # Version 0.0.1
 
